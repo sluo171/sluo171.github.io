@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[Click to View My CV [PDF] - Updated Oct. 2024](https://sluo171.github.io/files/CV_ShiyuLuo_Oct2024.pdf)
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
