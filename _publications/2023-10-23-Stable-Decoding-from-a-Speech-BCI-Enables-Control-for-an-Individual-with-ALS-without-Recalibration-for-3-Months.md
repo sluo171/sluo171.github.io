@@ -3,7 +3,6 @@ title: "Stable Decoding from a Speech BCI Enables Control for an Individual with
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-23-Stable-Decoding-from-a-Speech-BCI-Enables-Control-for-an-Individual-with-ALS-without-Recalibration-for-3-Months
-excerpt: '\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202304853'
 date: 2023-10-23
 venue: 'Advanced Science'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202304853'
